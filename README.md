@@ -3,4 +3,4 @@ Final project for EC 4435 Economic Forecasting. Project involved analyzing housi
 
 The chosen method involved building a simple model regressing the data set against US margin debt.
 
-![alt text](~/assets/images/mspus-regression-forecast.png "Scenario Based Regression Forecast: MSPUS ~ Margin Debt)
+![Regression Forecast](/mspus-forecasting/assets/images/mspus-regression-forecast.png?raw=true "Scenario Based Regression Forecast: MSPUS ~ Margin Debt)
