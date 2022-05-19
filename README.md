@@ -14,4 +14,7 @@ Data was forecast based on two scenarios, a decrease following recent trends, an
 
 ![RegressionForecast](https://github.com/positive-vibrations/mspus-forecasting/blob/main/assets/images/mspus-regression-forecast.png?raw=true)
 
-Forecast data suggests 
+Forecast data suggests:
+
+* In increase scenario, correction to historical trend.
+* In decrease scenario, significant devaluing of housing market
