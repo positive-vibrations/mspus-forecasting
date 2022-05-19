@@ -9,7 +9,7 @@ Methods evaluated:
 * Arima
 
 The chosen method involved building a simple model regressing the data set against US margin debt.
-Data was forecast based on two scenarios, a decrease following recent trends, and an increase based on historical trends.
+Data was forecast based on two scenarios for US margin debt, a decrease following recent trends, or an increase based on historical trends.
 
 
 ![RegressionForecast](https://github.com/positive-vibrations/mspus-forecasting/blob/main/assets/images/mspus-regression-forecast.png?raw=true)
@@ -17,4 +17,4 @@ Data was forecast based on two scenarios, a decrease following recent trends, an
 Forecast data suggests:
 
 * In increase scenario, correction to historical trend.
-* In decrease scenario, significant devaluing of housing market
+* In decrease scenario, significant devaluing of housing market.
